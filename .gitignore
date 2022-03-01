@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Image sample data
+*.png
+*.jpg
+*.jpeg
+*.wav
+*.mp4
