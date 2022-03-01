@@ -20,3 +20,6 @@
 *.jpeg
 *.wav
 *.mp4
+
+# Output binary
+bin/
