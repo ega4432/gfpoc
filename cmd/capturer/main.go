@@ -41,7 +41,7 @@ func main() {
 		return
 	}
 
-	fmt.Println(filename)
+	log.Println(filename)
 }
 
 func handleError(err error) {
